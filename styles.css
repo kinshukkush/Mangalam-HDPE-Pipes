@@ -172,7 +172,7 @@ body {
 .hero {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: #ffffff;
   padding: 60px 20px;
   display: flex;
@@ -291,7 +291,7 @@ body {
   align-items: center;
 }
 .feature-list li::before {
-  content: url("/public/svgs/tag.svg");
+  content: url("public/svgs/tag.svg");
   color: #2e3b8e;
   margin-right: 12px;
   font-weight: 900;
@@ -579,7 +579,7 @@ body {
   padding: 60px 20px;
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: rgba(255, 255, 255, 0.6);
   text-align: center;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -726,7 +726,7 @@ body {
   padding: 80px 20px;
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: #ffffff;
   border-top: 1px solid #e5e7eb;
   border-bottom: 1px solid #e5e7eb;
@@ -847,7 +847,7 @@ body {
 .faq-section {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: rgba(255, 255, 255, 0.6);
   border-top: 1px solid #e5e7eb;
   border-bottom: 1px solid #e5e7eb;
@@ -1117,7 +1117,7 @@ td .faq-catalogue .catalogue-btn,
 .applications-section {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: #ffffff;
   padding: 80px 20px;
   border-bottom: 1px solid #e5e7eb;
@@ -1317,7 +1317,7 @@ td .faq-catalogue .catalogue-btn,
 .manufacturing-section {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: #ffffff;
   padding: 60px 20px;
   font-family: "Inter", "Urbanist", sans-serif;
@@ -1438,7 +1438,7 @@ td .faq-catalogue .catalogue-btn,
   align-items: center;
 }
 .process-features li::before {
-  content: url("/public/svgs/tag.svg");
+  content: url("public/svgs/tag.svg");
   position: absolute;
   left: 0;
   width: 16px;
@@ -1572,7 +1572,7 @@ td .faq-catalogue .catalogue-btn,
     font-weight: 700;
   }
   .process-features li::before {
-    content: url("/public/svgs/tag.svg");
+    content: url("public/svgs/tag.svg");
     position: static;
     width: auto;
     height: auto;
@@ -1697,7 +1697,7 @@ td .faq-catalogue .catalogue-btn,
       font-weight: 700;
     }
     .process-features li::before {
-      content: url("/public/svgs/tag.svg");
+      content: url("public/svgs/tag.svg");
       position: static;
       width: auto;
       height: auto;
@@ -1755,7 +1755,7 @@ td .faq-catalogue .catalogue-btn,
 .testimonials-section {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: #ffffff;
   padding: 80px 20px;
   border-top: 1px solid #e5e7eb;
@@ -1970,7 +1970,7 @@ td .faq-catalogue .catalogue-btn,
 .products-section {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: #ffffff;
   padding: 80px 20px;
   border-bottom: 1px solid #e5e7eb;
@@ -2302,7 +2302,7 @@ td .faq-catalogue .catalogue-btn,
 .resources-section {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: #ffffff;
   padding: 80px 20px;
   border-top: 1px solid #e5e7eb;
@@ -2463,7 +2463,7 @@ td .faq-catalogue .catalogue-btn,
 .cta-final-section {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: #ffffff;
   border-top: 1px solid #e5e7eb;
   padding: 80px 20px;
@@ -2712,7 +2712,7 @@ td .faq-catalogue .catalogue-btn,
 .footer {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("/public/hero_bg.png");
+    url("public/hero_bg.png");
   background-color: #ffffff;
   border-top: 1px solid #e5e7eb;
   font-family: "Inter", sans-serif;

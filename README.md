@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20&height=220&section=header&text=🔵%20Mangalam%20HDPE%20Pipes&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Premium%20HDPE%20Pipes%20%26%20Coils%20%7C%20Gushwork%20Frontend%20Assignment&descSize=18&descAlignY=58"/>
+![Mangalam HDPE Pipes](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20&height=220&section=header&text=Mangalam%20HDPE%20Pipes&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Premium%20HDPE%20Pipes%20%26%20Coils%20%7C%20Gushwork%20Frontend%20Assignment&descSize=18&descAlignY=58)
 
 <div align="center">
 
@@ -218,11 +218,11 @@ Mangalam-HDPE-Pipes/
 ### Running Locally
 
 ```bash
-# Option 1: Open directly (may have CORS limitations for local SVGs)
-open index.html
+# Option 1: Open directly in your browser
+start index.html
 
 # Option 2: Use VS Code Live Server (recommended)
-# Install "Live Server" extension → Right click index.html → "Open with Live Server"
+# Install "Live Server" extension, then right click index.html and choose "Open with Live Server"
 
 # Option 3: Use Python's built-in HTTP server
 python -m http.server 5500
@@ -235,6 +235,31 @@ npx serve .
 
 > [!TIP]
 > Use VS Code with the **Live Server** extension for the best development experience. Hot reload works automatically on file save.
+
+---
+
+## 🚀 Deploying To GitHub Pages
+
+This project is a static site, so GitHub Pages works well once the asset paths are relative. That is already fixed in `index.html` and `styles.css`.
+
+### Publish Steps
+
+1. Push the repository to GitHub.
+2. Open the repo on GitHub and go to `Settings` > `Pages`.
+3. Under `Build and deployment`, set `Source` to `Deploy from a branch`.
+4. Select the branch you want to publish from, usually `main`, and set the folder to `/root`.
+5. Save the settings and wait for GitHub to build the site.
+6. Open the Pages URL GitHub shows after deployment completes.
+
+### Important Notes
+
+- Keep asset references relative, like `public/svgs/right.svg`, not `/public/svgs/right.svg`.
+- If you add new images or icons, place them under `public/` so they publish with the site.
+- If your repo name changes, GitHub Pages still works because this setup does not depend on a hard-coded base path.
+
+### Optional Local Check
+
+Before deploying, verify the site with a local server instead of opening the HTML file directly. That matches how GitHub Pages serves the project.
 
 ---
 
