@@ -1,17 +1,18 @@
-![Mangalam HDPE Pipes](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20&height=220&section=header&text=Mangalam%20HDPE%20Pipes&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Premium%20HDPE%20Pipes%20%26%20Coils%20%7C%20Gushwork%20Frontend%20Assignment&descSize=18&descAlignY=58)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2B3990&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Vanilla+HTML+%7C+CSS+%7C+JavaScript+%E2%80%94+No+Frameworks;Sticky+Header+%7C+Image+Zoom+Carousel+%7C+Responsive;Pixel-Perfect+Figma+Implementation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=2B3990&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=750&amp;height=60&amp;lines=Vanilla+HTML+%7C+CSS+%7C+JavaScript+%E2%80%94+No+Frameworks;Sticky+Header+%7C+Image+Zoom+Carousel+%7C+Responsive;Pixel-Perfect+Figma+Implementation" alt="Typing SVG" />
 
 <br/>
+<br/>
+<br/>
 
-[![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-Flexbox%20%26%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Figma](https://img.shields.io/badge/Figma-Design%20Source-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DOv07H7C2tA5UrVLhmfwfW/Gushwork-Assignment)
+[![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Flexbox%20%26%20Grid-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Figma](https://img.shields.io/badge/Figma-Design%20Source-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white)](https://www.figma.com/design/DOv07H7C2tA5UrVLhmfwfW/Gushwork-Assignment)
 
-[![Responsive](https://img.shields.io/badge/Responsive-Mobile%20%7C%20Tablet%20%7C%20Desktop-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Responsive](https://img.shields.io/badge/Responsive-Mobile%20%7C%20Tablet%20%7C%20Desktop-3DDC84?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)](#)
 [![Accessibility](https://img.shields.io/badge/Accessibility-ARIA%20Ready-FF6B6B?style=for-the-badge)](#)
 [![Performance](https://img.shields.io/badge/Performance-Optimized-brightgreen?style=for-the-badge)](#)
 [![Assignment](https://img.shields.io/badge/Gushwork-Assignment-2B3990?style=for-the-badge)](#)
@@ -45,7 +46,7 @@
 
 ## 🌟 About the Project
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2B3990&center=false&vCenter=true&width=700&lines=Pixel-perfect+Figma+implementation+for+Mangalam+HDPE+Pipes...;Built+with+pure+Vanilla+HTML%2C+CSS+%26+JavaScript!" alt="About" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1000&amp;color=2B3990&amp;center=false&amp;vCenter=true&amp;width=700&amp;lines=Pixel-perfect+Figma+implementation+for+Mangalam+HDPE+Pipes...;Built+with+pure+Vanilla+HTML%2C+CSS+%26+JavaScript!" alt="About" />
 
 **Mangalam HDPE Pipes** is a fully responsive product landing page built as part of the **Gushwork Frontend Assignment**. The page showcases premium HDPE pipe products with a modern, professional design—faithfully recreating every detail from the Figma specification.
 
@@ -135,17 +136,17 @@ The implementation uses **zero frameworks or libraries**—only semantic HTML5, 
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-Semantic%20Elements-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-Flexbox%20%26%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B%20Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-Semantic%20Elements-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-Flexbox%20%26%20Grid-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B%20Vanilla-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
 </p>
 
 ### Design & Fonts
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-Design%20Reference-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Google%20Fonts-Urbanist-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white" alt="Urbanist"/>
-  <img src="https://img.shields.io/badge/Google%20Fonts-Instrument%20Serif-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white" alt="Instrument Serif"/>
+  <img src="https://img.shields.io/badge/Figma-Design%20Reference-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Google%20Fonts-Urbanist-4285F4?style=for-the-badge&amp;logo=google-fonts&amp;logoColor=white" alt="Urbanist"/>
+  <img src="https://img.shields.io/badge/Google%20Fonts-Instrument%20Serif-4285F4?style=for-the-badge&amp;logo=google-fonts&amp;logoColor=white" alt="Instrument Serif"/>
 </p>
 
 ### Browser APIs Used
@@ -159,7 +160,7 @@ The implementation uses **zero frameworks or libraries**—only semantic HTML5, 
 ### Assets
 
 <p>
-  <img src="https://img.shields.io/badge/Cloudinary-Product%20Images-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+  <img src="https://img.shields.io/badge/Cloudinary-Product%20Images-3448C5?style=for-the-badge&amp;logo=cloudinary&amp;logoColor=white" alt="Cloudinary"/>
   <img src="https://img.shields.io/badge/SVG%20Icons-15%20Icons-yellow?style=for-the-badge" alt="SVG Icons"/>
 </p>
 
@@ -368,15 +369,15 @@ Badge   → "Step 3/8: Cooling" updates dynamically
 
 ### **Kinshuk Saxena**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B3990&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+Enthusiast;React+Native+%7C+Expo+Builder;Music+Lover+%F0%9F%8E%B5;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=2B3990&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+Enthusiast;React+Native+%7C+Expo+Builder;Music+Lover+%F0%9F%8E%B5;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-kinshukkush-181717?style=for-the-badge&logo=github)](https://github.com/kinshukkush)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kinshuk--saxena-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kinshuk-saxena-/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2B3990?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-frontend-mu-snowy.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-kinshuksaxena3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinshuksaxena3@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209057538521-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919057538521)
+[![GitHub](https://img.shields.io/badge/GitHub-kinshukkush-181717?style=for-the-badge&amp;logo=github)](https://github.com/kinshukkush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kinshuk--saxena-0077B5?style=for-the-badge&amp;logo=linkedin)](https://www.linkedin.com/in/kinshuk-saxena-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2B3990?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white)](https://portfolio-frontend-mu-snowy.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-kinshuksaxena3%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:kinshuksaxena3@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209057538521-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white)](tel:+919057538521)
 
 <br/>
 
@@ -393,5 +394,5 @@ Badge   → "Step 3/8: Cooling" updates dynamically
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,4,12,20&amp;height=120&amp;section=footer" width="100%"/>
 </div>
